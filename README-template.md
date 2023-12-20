@@ -27,7 +27,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![image](https://github.com/NabeelMansour/profile-card/assets/59266812/488304ec-6835-41d2-9961-6a7625b53f36)
+![Screenshot 2023-12-19 190942](https://github.com/NabeelMansour/profile-card/assets/59266812/7374762e-d01f-4f07-8f92-082fdd259edc)
+
 
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
